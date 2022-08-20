@@ -1,0 +1,27 @@
+header{
+    background-image: linear-gradient(rgb(196, 123, 123), rgb(228, 167, 214));
+    /*background-color: #e17055;*/
+    width: 140px;
+    border-radius: 5%;
+}
+
+nav {
+     /*width: 150px;*/
+    
+}
+
+ul {
+    display: none;
+    
+}
+
+nav:hover ul {
+    display:block;
+}
+nav ul li {
+    list-style-type: none;
+    
+}
+a {
+    color: rgb(126, 71, 71);
+}
